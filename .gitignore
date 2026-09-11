@@ -343,3 +343,7 @@ dkms.conf
 #
 # VSCode gitignore end
 #
+
+# SCTZine
+attachments
+attachments/*
