@@ -2,6 +2,7 @@
 
 | Post Title | Attachments |
 | --- | --- |
+| [Assembly API - 1][20070930-1-0]              | [![dl][01]][20070930-1-1] |
 | [Flasm v1.62 - Flash(SWF) Disassembler][20070922-2-0] | [![dl][01]][20070922-2-1] [![dl][01]][20070922-2-2] [![dl][01]][20070922-2-3] |
 | [RadASM IDE v2.2.1.2 Turkish][20070904-1-0]   | [![dl][01]][20070904-1-2] |
 | [RadASM IDE v2.2.1.2 Turkish][20070731-1-0]   | [![dl][01]][20070731-1-1] |
@@ -9,6 +10,9 @@
 | [Newly Added Tools][20070623-1-0]             | [![dl][01]][20070623-1-1] [![dl][01]][20070623-1-2] [![dl][01]][20070623-1-3] [![dl][01]][20070623-1-4] |
 | [OPCODES Help Files][20070425-1-0]            | [![dl][01]][20070425-1-2] [![dl][01]][20070425-1-1] |
 | [Table Extractor][20070412-2-0]               | [![dl][01]][20070412-2-1] |
+
+[20070930-1-0]: https://sctzine.com/p/assembly-api-1-en
+[20070930-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.30/sct-20070930-1-api-1-pass.SCT.7z
 
 [20070922-2-0]: https://sctzine.com/p/flasm-v162-flashswf-disassembler-en/
 [20070922-2-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flare06setup-pass.SCT.7z
