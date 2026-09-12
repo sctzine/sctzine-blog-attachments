@@ -13,36 +13,36 @@
 | [Table Extractor][20070412-2-0]               | [![dl][01]][20070412-2-1] |
 
 [20071012-1-0]: https://sctzine.com/p/turbo-debugger-v55-en
-[20071012-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.10.12/sct-20071012-1-turbodebugger-TurboDebugger-pass.SCT.7z
-[20071012-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.10.12/sct-20071012-1-turbodebugger-Mastering_Turbo_Assembler-pass.SCT.7z
+[20071012-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.10.12/sct-20071012-1-turbodebugger-TurboDebugger-pass.sctzine.7z
+[20071012-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.10.12/sct-20071012-1-turbodebugger-Mastering_Turbo_Assembler-pass.sctzine.7z
 
 [20070930-1-0]: https://sctzine.com/p/assembly-api-1-en
-[20070930-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.30/sct-20070930-1-api-1-pass.SCT.7z
+[20070930-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.30/sct-20070930-1-api-1-pass.sctzine.7z
 
 [20070922-2-0]: https://sctzine.com/p/flasm-v162-flashswf-disassembler-en
-[20070922-2-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flare06setup-pass.SCT.7z
-[20070922-2-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flasm16src-pass.SCT.7z
-[20070922-2-3]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flasm16win-pass.SCT.7z
+[20070922-2-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flare06setup-pass.sctzine.7z
+[20070922-2-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flasm16src-pass.sctzine.7z
+[20070922-2-3]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.22/sct-20070922-2-flasm16win-pass.sctzine.7z
 
 [20070904-1-0]: https://sctzine.com/p/radasm-ide-v2212-turkish-2
-[20070904-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.4/sct-20070904-2-radtr-pass.SCT.7z
+[20070904-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.9.4/sct-20070904-2-radtr-pass.sctzine.7z
 
 [20070731-1-0]: https://sctzine.com/p/radasm-ide-v2212-turkish
-[20070731-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.7.31/sct-20070731-1-radasm-v2212-tr-pass.SCT.7z
+[20070731-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.7.31/sct-20070731-1-radasm-v2212-tr-pass.sctzine.7z
 
 [20070624-1-0]: https://sctzine.com/p/peid-094-updated-2
-[20070624-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.24/sct-20070624-1-peidguncel-pass.SCT.7z
+[20070624-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.24/sct-20070624-1-peidguncel-pass.sctzine.7z
 
 [20070623-1-0]: https://sctzine.com/p/newly-added-tools
-[20070623-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-dup2-pass.SCT.7z
-[20070623-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-hdasm-pass.SCT.7z
-[20070623-1-3]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-hiew726w-pass.SCT.7z
-[20070623-1-4]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-ollydbg-diablo-pass.SCT.7z
+[20070623-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-dup2-pass.sctzine.7z
+[20070623-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-hdasm-pass.sctzine.7z
+[20070623-1-3]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-hiew726w-pass.sctzine.7z
+[20070623-1-4]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.6.23/sct-20070623-1-ollydbg-diablo-pass.sctzine.7z
 
 [20070425-1-0]: https://sctzine.com/p/opcodes-help-files
-[20070425-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.4.24/sct-20070425-1-buasm-pass.SCT.7z
-[20070425-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.4.24/sct-20070425-1-opcodes-pass.SCT.7z
+[20070425-1-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.4.24/sct-20070425-1-buasm-pass.sctzine.7z
+[20070425-1-2]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.4.24/sct-20070425-1-opcodes-pass.sctzine.7z
 [20070412-2-0]: https://sctzine.com/p/table-extractor-en
-[20070412-2-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.4.12/sct-20070412-2-table_extractor-pass.SCT.7z
+[20070412-2-1]: https://github.com/sctzine/sctzine-blog-attachments/releases/download/v2007.4.12/sct-20070412-2-table_extractor-pass.sctzine.7z
 
 [01]: ./assets/archive.svg
